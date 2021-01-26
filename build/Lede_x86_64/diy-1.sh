@@ -10,14 +10,14 @@
 #网络拓扑https://github.com/DavBfr/luci-app-netmap    
 #git clone https://github.com/DavBfr/luci-app-netmap package/luci-app-netmap
 #在线用户
-#git clone https://github.com/rufengsuixing/luci-app-onliner package/luci-app-onliner
+git clone https://github.com/rufengsuixing/luci-app-onliner package/luci-app-onliner
 #SoftEther VPN https://github.com/ZhanhuaJin/openwrt-package/tree/bae9c5ff772221c4003ad8223ab86144be2a8dad/lienol/luci-app-softethervpn
-#svn co https://github.com/ZhanhuaJin/openwrt-package/trunk/lienol/luci-app-softethervpn package/luci-app-softethervpn
+svn co https://github.com/ZhanhuaJin/openwrt-package/trunk/lienol/luci-app-softethervpn package/luci-app-softethervpn
 #PingOS
-#svn co https://github.com/ZhanhuaJin/openwrt-package/trunk/lienol/luci-app-nginx-pingos package/luci-app-nginx-pingos
+svn co https://github.com/ZhanhuaJin/openwrt-package/trunk/lienol/luci-app-nginx-pingos package/luci-app-nginx-pingos
 #BaiduPCS-Web
-#git clone https://github.com/KFERMercer/luci-app-baidupcs-web package/luci-app-baidupcs-web
+git clone https://github.com/KFERMercer/luci-app-baidupcs-web package/luci-app-baidupcs-web
 #PwdHackDeny     异常登录拒绝
-#svn co https://github.com/hong0980/build/trunk/luci-app-PwdHackDeny package/luci-app-PwdHackDeny
+svn co https://github.com/hong0980/build/trunk/luci-app-PwdHackDeny package/luci-app-PwdHackDeny
 #luci-app-netdata      实时监控   
-#git clone https://github.com/sirpdboy/luci-app-netdata package/luci-app-netdata
+git clone https://github.com/sirpdboy/luci-app-netdata package/luci-app-netdata
