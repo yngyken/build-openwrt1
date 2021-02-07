@@ -11,5 +11,5 @@
 #git clone https://github.com/DavBfr/luci-app-netmap package/luci-app-netmap
 #在线用户
 #git clone https://github.com/rufengsuixing/luci-app-onliner package/luci-app-onliner
-lede源码增加passwall,也适用于增加其他插件的方法
+#lede源码增加passwall,也适用于增加其他插件的方法
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
